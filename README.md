@@ -1,7 +1,5 @@
 # Enigma-Machine-Desktop-Application
 
-https://user-images.githubusercontent.com/110668613/192724564-a6d3731d-0e67-4238-a6c0-25ea77552ded.mp4
-
 1. Loading enigma machine details from resources folder
 2. Choose the identity of the rotors and the starting position of each of them, reflector and wiring in the plug board (you can click on random and the system will choose for you randomly)
 3. Words can be encrypted and decrypted in 2 ways:
@@ -10,6 +8,9 @@ https://user-images.githubusercontent.com/110668613/192724564-a6d3731d-0e67-4238
 Then click on reset and clear.
 4. In the Brute Force panel we will want to encrypt text from the dictionary and let the machine go through all the machine's options and look for all the suspicious words that could be the text we encrypted.
   Choose a task size, difficulty level and number of agents (threads) to perform the task and then click on start.
+
+
+https://user-images.githubusercontent.com/110668613/192724564-a6d3731d-0e67-4238-a6c0-25ea77552ded.mp4
 
 
 BREAKING THE ENIGMA - Part.2
